@@ -1,0 +1,5 @@
+name: DropTags
+author: JesscaDomo
+version: 0.0.1
+api: 3.9.0
+main: JesscaDomo\DropTags\Main
